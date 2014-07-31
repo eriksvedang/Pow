@@ -1,12 +1,6 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Pow.cs">
-    <Files>
-      <File FileName="Assets/Pow.cs" Line="17" Column="22" />
-      <File FileName="Assets/MonoBehaviourExtensions.cs" Line="6" Column="95" />
-      <File FileName="Assets/Maybe.cs" Line="77" Column="2" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
